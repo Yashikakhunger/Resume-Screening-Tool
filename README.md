@@ -7,7 +7,7 @@ An intelligent resume screening system that uses Natural Language Processing (NL
 The AI Resume Screening Tool is designed to help recruiters efficiently manage large volumes of job applications by automatically extracting information from resumes and ranking candidates based on their match with job requirements. The system uses advanced NLP techniques to understand resume content and provide objective candidate evaluations.
 
 **Developed by:**
--Abhijeet Srivastava
+-Yashika Khunger and Mahak Chawla
 
 ## Features
 
